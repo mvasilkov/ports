@@ -1,0 +1,6 @@
+[submodule "ports/ect"]
+	path = ports/ect
+	url = https://github.com/fhanau/Efficient-Compression-Tool.git
+[submodule "ports/advancecomp"]
+	path = ports/advancecomp
+	url = https://github.com/amadvance/advancecomp.git
