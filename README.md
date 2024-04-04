@@ -4,7 +4,7 @@
 
 ```sh
 git clone --recurse-submodules git@github.com:mvasilkov/ports.git
-docker buildx build -t ports .
+docker buildx build --platform linux/amd64 -t ports .
 ```
 
 ## Update ports

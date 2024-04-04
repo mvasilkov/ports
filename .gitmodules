@@ -4,3 +4,6 @@
 [submodule "ports/advancecomp"]
 	path = ports/advancecomp
 	url = https://github.com/amadvance/advancecomp.git
+[submodule "ports/jpeg2png"]
+	path = ports/jpeg2png
+	url = https://github.com/mvasilkov/jpeg2png.git
